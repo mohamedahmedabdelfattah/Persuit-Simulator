@@ -1,0 +1,14 @@
+
+                                //Fighter Return After Falling Is Finished
+                                /*
+                                for (int n6 = 0; n6 < 80; n6++)
+                                {
+                                int x = Fighter.Location.X;
+                                int y = Fighter.Location.Y;
+                                for (int n2 = 0; n2 < 5000000; n2++)
+                                {
+                                }
+                                Fighter.Location = new Point(x + 3, y);
+                                Fighter.Refresh();
+                                }
+                                */
