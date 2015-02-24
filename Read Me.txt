@@ -1,0 +1,15 @@
+Modeling and Simulation
+
+Persuit Study Case Simulator
+
+Language    : Visual C#
+
+Software      : Microsoft Visual C# 2008
+
+Developer   : Mohamed Ahmed Abdel Fattah
+
+E-Mail           : eng.mafattah@hotmail.com
+
+Supervisor : Dr.Mohamed Abdel Fatah
+
+Copyright © - DarkOS 2011, All Rights Reserved

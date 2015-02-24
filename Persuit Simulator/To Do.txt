@@ -1,0 +1,12 @@
+﻿Slow down the animations
+
+Every number used is user entered or random-generated
+
+Variables:
+t
+dist
+vf
+xf
+yf
+xb
+yb
