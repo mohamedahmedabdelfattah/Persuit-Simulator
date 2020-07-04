@@ -4,14 +4,14 @@
   <description asmv2:publisher="Persuit Simulator" asmv2:product="Persuit Simulator" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Persuit Simulator.exe.manifest" size="5168">
+    <dependentAssembly dependencyType="install" codebase="Persuit Simulator.exe.manifest" size="5206">
       <assemblyIdentity name="Persuit Simulator.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>IYU8x4M5ZSaxwmAAY58eoOW7r7c=</dsig:DigestValue>
+        <dsig:DigestValue>9L2bX24ATxsg251TCW5T7T8jpQQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

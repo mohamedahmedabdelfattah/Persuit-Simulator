@@ -13,7 +13,7 @@
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>icon.ico</ApplicationIcon>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <ManifestCertificateThumbprint>269774D36886D7899C7F24DFCA12C3A1A286E886</ManifestCertificateThumbprint>
     <ManifestKeyFile>Persuit Simulator_TemporaryKey.pfx</ManifestKeyFile>
     <SignAssembly>false</SignAssembly>

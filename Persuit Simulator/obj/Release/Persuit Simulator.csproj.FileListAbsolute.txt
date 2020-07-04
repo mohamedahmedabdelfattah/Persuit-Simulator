@@ -52,3 +52,33 @@ E:\Mohamed\Career\Coding\Projects\Persuit Simulator\Persuit Simulator\obj\Releas
 E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.ResolveComReference.cache
 E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.exe
 E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.pdb
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.exe.manifest
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.application
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.exe
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.pdb
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\About.AboutForm.resources
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulation.MainWindow.resources
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulator.Properties.Resources.resources
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulator.DetailsWindow.resources
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.GenerateResource.Cache
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.CoreCompileInputs.cache
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.TrustInfo.xml
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.exe.manifest
+E:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.application
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.exe.manifest
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.application
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.exe
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\bin\Release\Persuit Simulator.pdb
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csprojAssemblyReference.cache
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.ResolveComReference.cache
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\About.AboutForm.resources
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulation.MainWindow.resources
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulator.Properties.Resources.resources
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\PersuitSimulator.DetailsWindow.resources
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.GenerateResource.cache
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.TrustInfo.xml
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.exe.manifest
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.application
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.exe
+D:\Programming\Projects\Persuit Simulator\Persuit Simulator\obj\Release\Persuit Simulator.pdb
